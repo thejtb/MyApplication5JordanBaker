@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application1</string>
+
+    <string-array name="department" >
+        <item>Default</item>
+        <item>Computer Science</item>
+        <item>Maths</item>
+    </string-array>
+
+    <string-array name="empids">
+        <item>789</item>
+        <item>521</item>
+        <item>7848</item>
+        <item>234</item>
+    </string-array>
+
+    </resources>
